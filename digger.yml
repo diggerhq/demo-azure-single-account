@@ -1,0 +1,4 @@
+projects:
+  - name: myapp-dev-eastus
+    dir: .
+
